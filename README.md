@@ -9,11 +9,22 @@
 - second line
 - third line
 
+
+### numeric list:
+1. first
+2. second
+3. third
+
+
+>[!info] Header
+>Some text
+
+
   **bolnd font**
   
   *italics*
 
-==selected==
+_another italic_
 
   __another bold__
 
